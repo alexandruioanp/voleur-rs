@@ -1,0 +1,12 @@
+[package]
+name = "hellorust"
+version = "0.1.0"
+authors = ["Alex <aip.messages@yahoo.co.uk>"]
+
+[dependencies]
+libpulse-binding = "=1.0.3"
+futures = "0.1.18"
+tokio-core = "0.1.12"
+hyper = "0.11.19"
+bytes = "0.4.6"
+url = "1.7.0"
